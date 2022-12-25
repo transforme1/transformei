@@ -1,0 +1,148 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+body::-webkit-scrollbar {
+    width: 0px;
+}
+
+@media (max-width: 500px) {
+
+    .container-principal{
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+    }
+
+    .sacola{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+
+        box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.25);
+    }
+
+    .voltar{
+        width: 35px;
+        height: 35px;
+        background-color: #21ABA5;
+        border-radius: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 20px 16px;
+    }
+
+    .voltar a{
+        color: #fff;
+        font-size: 25px;
+        top: 0;
+    }
+
+    .sacola h1{
+        text-transform: uppercase;
+        font-size: 18px;
+        color: #1C2143;
+        font-weight: 800;
+    }
+
+    .limpar a{
+        font-size: 16px;
+        color: #21ABA5;
+        font-weight: 700;
+        margin: 16px 16px;
+    }
+
+    .add-mais-itens, a{
+        margin: 20px 16px 20px 10px;
+        color: #21ABA5;
+        font-weight: 700;
+        font-size: 16px;
+    }
+
+    .itens-da-sacola{
+        display: flex;
+        flex-direction: column;
+        height: 350px;
+    }
+
+    .item{
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+        margin: 10px 16px;
+    }
+
+    .qtd-item{
+        color: #21ABA5;
+        font-size: 19px;
+        font-weight: 700;
+        margin-right: 10px;
+    }
+
+    .foto-item{
+        width: 60px;
+        height: 60px;
+        border-radius: 100px;
+        margin-right: 10px;
+    }
+
+    .nome-item{
+        color: #1C2143;
+        font-size: 20px;
+        font-weight: 700;
+    }
+
+    .resumo-de-valores h2{
+        color: #1C2143;
+        font-size: 20px;
+        font-weight: 700;
+        margin-left: 16px;
+        margin-top: 20px;
+    }
+
+    .total{
+        display: flex;
+        justify-content: space-between;
+        margin-left: 16px;
+        margin-right: 20px;
+        margin-top: 7px;
+    }
+
+    .total p{
+        color: #21ABA5;
+        font-size: 17px;
+        font-weight: 700;
+    }
+
+    .container-finalizar-pedido{
+        display: flex;
+        align-items: flex-end;
+        justify-content: center;
+        height: 100vh;
+        padding: 20px;
+    }
+
+    .btn-finalizar-pedido{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        border-radius: 5px;
+        background-color: #21ABA5;
+        width: 100%;
+        height: 40px;
+    }
+
+    .btn-finalizar-pedido h2{
+        font-size: 15px;
+        font-weight: 700;
+        color: #fff;
+    }
+
+
+
+
+
+
+
+}

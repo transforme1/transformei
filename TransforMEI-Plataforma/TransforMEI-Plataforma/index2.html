@@ -1,0 +1,305 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="css/style-pedidos.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Inter:wght@400;700;800&family=Nunito:wght@200;300;400;500;600;700;800;900&display=swap"
+        rel="stylesheet">
+    <link rel="stylesheet" href="css/resert.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+        integrity="sha512-1ycn6IcaQQ40/MKBW2W4Rhis/DbILU74C1vSrLJxCq57o941Ym01SwNsOMqvEBFlcgUa6xLiPY/NS5R+E6ztJQ=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="shortcut icon" href="img/icon-transformei.png">
+    <title>TransforMEI</title>
+</head>
+
+<body>
+    <section class="bg-escuro-modal">
+        <header class="cabecalho">
+            <div class="container1">
+                <div class="imagem-logo">
+                    <img src="img/logo-com-nome.png" alt="">
+                </div>
+            </div>
+
+            <div class="container2">
+                <div class="container-calendario">
+                    <div class="dia">
+                        <p>Qua</p>
+                        <p>14</p>
+                    </div>
+
+                    <div class="calendario">
+                        <p>Calendário</p>
+                        <a href="#" class="icones incone-calendario">
+                            <i class="far fa-calendar"></i>
+                        </a>
+                    </div>
+                </div>
+
+                <div class="icones icones-cabecalho">
+                    <a href="#" class="icones conjunto-icones">
+                        <i class="fas fa-envelope"></i>
+                    </a>
+                    <a href="#" class="icones conjunto-icones">
+                        <i class="fas fa-bell"></i>
+                    </a>
+                    <a href="" class="icones conjunto-icones">
+                        <i class="fas fa-cog"></i>
+                    </a>
+                    <a href="" class="icones conjunto-icones">
+                        <i class="fas fa-question-circle"></i>
+                    </a>
+                </div>
+
+                <div class="foto-usuario">
+                    <img src="img/profile.png" alt="">
+                </div>
+            </div>
+        </header>
+
+
+        <div class="container-principal">
+            <div class="menu-lateral">
+                <div class="menu-hamburger">
+                    <a href="#" class="icones-menu-lateral menu">
+                        <i class="fas fa-bars icones-menu-lateral "></i>
+                    </a>
+                </div>
+                <div class="icones-plataforma">
+                    <a href="index.html" class="icones-menu-lateral">
+                        <img src="img/icon-mic.png" alt="">
+                        <p>Assistente</p>
+                    </a>
+                    <a href="index2.html" class="icones-menu-lateral">
+                        <img src="img/icon-pedidos.png" alt="">
+                        <p>Pedidos</p>
+                    </a>
+                    <a href="index3.html" class="icones-menu-lateral">
+                        <img src="img/icon-finance.png" alt="">
+                        <p>Financeiro</p>
+                    </a>
+                    <a href="index4.html" class="icones-menu-lateral">
+                        <img src="img/icon-vendas.png" alt="">
+                        <p>Vendas</p>
+                    </a>
+                    <a href="index5.html" class="icones-menu-lateral">
+                        <img src="img/icon-produto.png" alt="">
+                        <p>Produtos</p>
+                    </a>
+                    <a href="index6.html" class="icones-menu-lateral">
+                        <img src="img/icon-clientes.png" alt="">
+                        <p>Clientes</p>
+                    </a>
+                    <button class="btn-icones-menu-lateral icones-menu-lateral ">
+                        <img src="img/icon-vincular-app.png" alt="">
+                        <p>Aplicativos</p>
+                    </button>
+                </div>
+            </div>
+
+            <div class="container-principal-alinhado-direita">
+
+                <div class="navbar-secundaria">
+                </div>
+
+                <div class="container-pedidos">
+                    <div class="pedidos">
+                        <h1>Pedidos</h1>
+                    </div>
+                    <div class="botoes">
+                        <button class="btn-microfone">
+                            <i class="fas fa-microphone"></i>
+                        </button>
+                        <button class="cancelar-pedido">
+                            <i class="fas fa-times"></i>
+                            <p>Cancelar Pedido</p>
+                        </button>
+                        <button class="novo-pedido btn-abrir-modal">
+                            <i class="fas fa-plus"></i>
+                            <p>Novo Pedido</p>
+                        </button>
+                    </div>
+                </div>
+
+                <div class="container-pedidos-feitos">
+                    <div class="pedidos-feitos">
+                        <h2 class="titulos-container-pedidos">Pedidos Feitos</h2>
+                        <div class="caixa-pedido-feito">
+                            <h3 id="nome-cliente"></h3>
+                            <div class="caixa-qtd-produto-pedido">
+                                <p id="qtd-produto-pedido"></p>
+                                <p id="nome-produto-pedido"></p>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="itens-pedido">
+                        <div class="item-pedido-nome">
+                            <h2 class="titulos-container-pedidos">Itens do Pedido</h2>
+                        </div>
+                        <div class="caixa-itens-pedido">
+                            <div class="pedido-recebido">
+                                <div class="info-pedido">
+                                    <p id="qtd-produto-item"></p>
+                                    <p id="nome-produto-item"></p>
+                                </div>
+                                <p class="valor-item">R$0,00</p>
+                            </div>
+                            <div class="container-observacoes-total">
+                                <div class="conteudo-fim-container">
+                                    <h3>Observações</h3>
+                                    <div class="container-barra-obs">
+                                        <input type="text" class="barra-obs-pedido" placeholder="Nenhum">
+                                    </div>
+                                </div>
+                                <div class="container-total-pedido">
+                                    <div class="caixa-direita-pedido">
+                                        <p>total:</p>
+                                        <p>R$0,00</p>
+                                    </div>
+                                    <div class="caixa-alterarpagamento">
+                                        <div class="btn-alterar">
+                                            <p>Alterar</p>
+                                        </div>
+                                        <div class="btn-finalizar-pedido">
+                                            <p>Finalizar Pedido</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- pedido-manual -->
+
+                <div class="container-modal-novo-pedido container-modal">
+                    <div class="modal-pedido modal-show modal">
+                        <div class="cabebalho-modal">
+                            <h2>Novo Pedido</h2>
+                            <button class="btn-fechar-modal">
+                                <i class="fas fa-times icon-fechar-modal"></i>
+                            </button>
+                        </div>
+                        <div class="nome-caixa-texto-modal nome">
+                            <h3 class="h3-novo-pedido">Nome</h3>
+                            <div class="barra-modal-novo-pedido">
+                                <input type="text" class="barra-texto-modal-novo-pedido"
+                                    placeholder="Digite o nome do cliente">
+                            </div>
+                        </div>
+
+                        <div class="nome-caixa-texto-modal">
+                            <h3 class="h3-novo-pedido">Produto</h3>
+                            <div class="barra-modal-novo-pedido">
+                                <input type="" class="barra-texto-modal-novo-pedido"
+                                    placeholder="Digite o nome do produto">
+                            </div>
+                        </div>
+
+                        <div class="nome-caixa-texto-modal">
+                            <h3 class="h3-novo-pedido">Quantidade</h3>
+                            <div class="barra-modal-novo-pedido">
+                                <input type="" class="barra-texto-modal-novo-pedido"
+                                    placeholder="Digite a quantidade do produto">
+                            </div>
+                        </div>
+
+                        <div class="nome-caixa-texto-modal">
+                            <h3 class="h3-novo-pedido">Observações</h3>
+                            <div class="barra-modal-novo-pedido">
+                                <input type="" class="barra-texto-modal-novo-pedido" placeholder="(Opcional)">
+                            </div>
+                        </div>
+                        <div class="salvar-novo-pedido">
+                            <div class="salvar-pedido">
+                                <h3>Finalizar Pedido</h3>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- pedido-manual -->
+
+                <!-- pedido microfone -->
+
+
+
+                <div class="container-microfone">
+                    <div class="modal-microfone">
+                        <div class="cabebalho-modal-microfone">
+                            <button class="btn-fechar-modal-microfone">
+                                <i class="fas fa-times icon-fechar-modal"></i>
+                            </button>
+                        </div>
+                        <div class="container-org-mic">
+                            <button id="btnGravar" class="btn-microfone-pedido">
+                                <img src="img/microphone.png" alt="">
+                                <div class="pulse ">
+                                </div>
+                            </button>
+                            <textarea id="textarea" class="textarea-mic"></textarea>
+                            <div class="caixa-botoes-mic">
+                                <button id="btnParar" class="btn-mic btn-outline-primary">Parar</button>
+                                <button id="btnLimpar" class="btn-mic btn-outline-primary">Apagar</button>
+                            </div>
+                            <input type="button" id="btnVer" class="btn-outline-danger" value="Finalizar Pedido"
+                                onclick="teste()">
+                            </input>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+
+            <!-- pedido microfone -->
+
+
+
+
+            <div class="container-modal-apps">
+                <div class="modal-apps modal">
+                    <div class="cabebalho-modal">
+                        <h2>Vincular Aplicativos</h2>
+                        <button class="btn-fechar-modal">
+                            <i class="fas fa-times icon-fechar-modal-app"></i>
+                        </button>
+                    </div>
+                    <div class="container-vincular-app">
+                        <img src="img/celular.png" alt="">
+                        <p>
+                            Vincular outros aplicativos permite adicionar outras plataformas delivery como Rappi,
+                            iFood
+                            e Uber Eats.
+                        </p>
+                    </div>
+                    <div class="container-selecao">
+                        <div class="selecao-app">
+                            <i class="fas fa-chevron-down"></i>
+                            <p>Selecione um aplicativo</p>
+                        </div>
+                    </div>
+
+                    <div class="container-salvar-selecao">
+                        <div class="salvar-selecao-app">
+                            <p>Salvar</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </div>
+    </section>
+
+    <script src="js/script4.js"></script>
+    <script src="js/script6.js"></script>
+</body>
+
+</html>

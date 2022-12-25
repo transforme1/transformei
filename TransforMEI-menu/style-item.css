@@ -1,0 +1,173 @@
+body {
+    font-family: 'Nunito', sans-serif;
+}
+
+body::-webkit-scrollbar {
+    width: 0px;
+}
+
+@media (max-width: 500px) {
+
+    .container-principal{
+        display: flex;
+        flex-direction: column;
+        height: 100vh;
+    }
+
+    .foto-item {
+        max-width: 100%;
+        position: relative;
+    }
+
+    .voltar{
+        position: absolute;
+        width: 35px;
+        height: 35px;
+        background-color: #21ABA5;
+        border-radius: 30px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .voltar, a{
+        color: #fff;
+        font-size: 25px;
+        top: 0;
+        margin: 15px;
+    }
+
+    .container-informacoes{
+        display: flex;
+        padding: 20px;
+        /* background-color: #21ABA5; */
+        height: 120px;
+    }
+
+    .nome-item{
+        color: #1C2143;
+        font-size: 25px;
+        font-weight: 700;
+    }
+
+    .descricao{
+        color: #1C2143;
+        font-size: 15px;
+        font-weight: 500;
+        margin-top: 4px;
+    }
+
+    .valor{
+        color: #21ABA5;
+        font-size: 18px;
+        font-weight: 700;
+        margin-top: 4px;
+    }
+
+    .observacao{
+        display: flex;
+        color: #1C2143;
+        align-items: center;
+    }
+
+    .container-observacao{
+        display: flex;
+        flex-direction: column;
+        padding: 20px;
+    }
+
+    .h2-observacao, .fa-comment-alt{
+        color: #1C2143;
+        font-size: 17px;
+        font-weight: 700;
+        padding: 7px 2px;
+    }
+
+    .caixa-obeservacao{
+        background-color: #fff;
+        border: 1px solid #21ABA5;
+        border-radius: 10px;
+        width: 100%;
+        height: 100px;
+    }
+
+    .caixa-texto{
+        border: none;
+        background: none;
+        outline: none;
+        padding: 10px;
+        width: 100%;
+        color: #1C2143;
+        font-family: 'Nunito', sans-serif;
+    }
+
+    .caixa-texto input::placeholder{
+        color: #21ABA5;
+    }
+
+    .container-finalizar-compra{
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        padding: 20px;
+    }
+
+    .finalizar-compra{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    
+    .quantidade{
+        display: flex;
+        border-radius: 10px;
+        height: 40px;
+        align-items: center;
+        width: 160px;
+        justify-content: space-between;
+        padding: 10px;
+    }
+
+    .qtd-font{
+        color: #21ABA5;
+        font-size: 18px;
+        font-weight: 700;
+    }
+
+    .qtd-mais{
+        font-size: 30px;
+        color: #21ABA5;
+        font-weight: 700;
+        cursor: pointer;
+    }
+
+    .qtd-menos{
+        font-size: 40px;
+        color: #aaaaaa;
+        font-weight: 700;
+        cursor: pointer;
+    }
+
+
+    .adicionar-sacola{
+        background-color: #21ABA5;
+        width: 179px;
+        height: 40px;
+        border-radius: 5px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .adicionar-sacola:hover{
+        background-color: #21aba4ec;
+    }
+
+    .adicionar-sacola a{
+        font-size: 15px;
+        font-weight: 700;
+    }
+
+}

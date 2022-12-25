@@ -1,0 +1,533 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@200;300;400;600;700;800;900&family=Nunito:wght@200;300;400;500;600;700;800;900;1000&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.box-grid {
+padding: 40px;
+
+}
+
+body {
+    background-image: url(img/Background.png);
+    /* background: linear-gradient(181.67deg, #1C2143 18.87%, #163A5F 45.89%, #1C2143 81.25%); */
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+body::-webkit-scrollbar {
+    width: 10px;
+}
+
+body::-webkit-scrollbar-track {
+    background-color: #1C2143;
+}
+
+body::-webkit-scrollbar-thumb {
+    background-color: #EEA206;
+    border-radius: 20px;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+    position: fixed;
+    width: 100%;
+    height: 90px;
+    background: rgba(29, 38, 73, 0.5);
+    backdrop-filter: blur(5px);
+}
+
+.logo {
+    display: flex;
+    height: 50px;
+}
+
+.menu-nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+a {
+    text-decoration: none;
+}
+
+li {
+    list-style-type: none;
+}
+
+nav ul li a {
+    margin-right: 55px;
+}
+
+.cabecalho ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cabecalho ul li a {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.slider {
+    position: absolute;
+    width: 100%;
+}
+
+.cabecalho ul li .btn {
+    border: solid 1px #fff;
+    font-weight: 600;
+    padding: 5px 35px;
+    margin-right: 70px;
+    border-radius: 10px;
+    color: #fff;
+}
+
+.cabecalho ul li a:hover {
+    color: #D8E1E0;
+}
+
+.btn {
+    margin-left: 100px;
+}
+
+.cabecalho .btn:hover {
+    color: #fff;
+    background-color: #EEA206;
+    transition: 0.5s ease-in-out;
+    border: solid 1px #1C2143;
+}
+
+main {
+    padding-top: 280px;
+}
+
+.slogan{
+    margin-top: 200px;
+    margin-left: 100px;
+}
+
+.slogan h2 {
+    font-family: 'Nunito Sans', sans-serif;
+    color: #ffffff;
+    font-weight: 900;
+    font-size: 50px;
+}
+
+.btn-cadastro{
+    color: #fff;
+}
+
+span {
+    color: #EEA206;
+}
+
+.slogan p {
+    font-family: 'Nunito Sans', sans-serif;
+    color: #ffffff;
+    font-weight: 400;
+    padding-top: 10px;
+}
+
+.slogan button {
+    border: solid 2px #EEA206;
+    background-color: transparent;
+    font-weight: 600;
+    padding: 11px 38px;
+    margin-top: 44px;
+    border-radius: 10px;
+    color: #fff;
+}
+
+button:hover {
+    background-color: #EEA206;
+    cursor: pointer;
+    transition: 0.5s ease-in-out;
+}
+
+button a {
+    font-size: 18px;
+}
+
+.nosso-servico {
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.nosso-servico h2 {
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+    margin-top: 400px;
+}
+
+.nosso-servico p {
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 5px;
+    width: 80%;
+    margin-top: 15px;
+}
+
+/* .dona-luciana{
+    padding: 0 30px;
+} */
+
+.financeiro, .vendas {
+    display: flex;
+    align-items: center;
+    flex-direction: row-reverse;
+    margin-top: 200px;
+    justify-content: space-between;
+}
+
+.estoque, .graficos{
+    display: flex;
+    align-items: center;
+    margin-top: 200px;
+    justify-content: space-between;
+}
+
+.h2-nossos-servicos {
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 35px;
+    text-align: center;
+}
+
+.p-nosso-servico {
+    font-size: 18px;
+    color: #ffffff;
+    text-align: center;
+    margin-top: 15px;
+    text-align: center;
+    width: 600px;
+}
+
+.img-left {
+    width: 500px;
+    margin-top: 150px;
+    margin-right: 155px;
+}
+
+.img-right {
+    width: 500px;
+    margin-top: 150px;
+    margin-left: 145px;
+}
+
+.casos-sucesso {
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin-top: 250px;
+    margin-bottom: 100px;
+}
+
+.casos-sucesso h2 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 35px;
+    text-align: center;
+}
+
+.casos-sucesso p {
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 18px;
+    color: #ffffff;
+    margin-top: 15px;
+    text-align: left;
+    width: 500px;
+}
+
+.casos-sucesso h3 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 25px;
+    margin-top: 40px;
+}
+
+.casos-sucesso-video {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.video {
+    margin-top: 40px;
+    margin-left: 10px;
+    align-items: center;
+}
+
+video {
+    border-radius: 5px;
+}
+
+.parceiros h2 {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 800;
+    color: #ffffff;
+    font-size: 35px;
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 90px;
+}
+
+.parceiros-img {
+    display: flex;
+    justify-content: space-around;
+    margin-bottom: 120px;
+}
+
+.parceiros img {
+    width: 110px;
+    height: 120px;
+}
+
+footer {
+    height: 500px;
+    background-color: rgba(13, 25, 61, 0.3);
+}
+
+.box-grid-footer {
+    width: 1100px;
+    margin: 0 auto;
+    display: flex;
+    margin-top: 85px;
+}
+
+.logo-footer {
+    width: 190px;
+    height: 45px;
+    margin-bottom: 40px;
+}
+
+.input{
+    padding: 30px;
+}
+
+input {
+    width: 290px;
+    height: 50px;
+    background-color: rgba(228, 228, 228, 0.101);
+    border-radius: 5px 0px 0px 5px;
+    border-color: rgba(145, 145, 145, 0.366);
+    border-style: solid;
+}
+
+input::placeholder {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 15px;
+    color: #b1b1b1b5;
+    padding: 20px;
+}
+
+button {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 15px;
+    color: #fff;
+    width: 180px;
+    background-color: #EEA206;
+    border-color: #EEA206;
+    border-style: solid;
+    border-radius: 0px 5px 5px 0px;
+}
+
+button:hover {
+    background-color: #EEA206;
+    color: #fff;
+    border-color: #EEA206;
+    border-style: solid;
+}
+
+.informacoes{
+    display: flex;
+}
+
+.teste{
+    display: flex;
+    padding: 85px
+}
+
+.input-footer {
+    display: flex;
+    flex-direction: column;
+    margin-top: 85px;
+    margin-right: 95px;
+}
+
+.input p {
+    font-family: 'Nunito Sans', sans-serif;
+    color: #fff;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+.button {
+    display: flex;
+}
+
+.sobre, .comunidade, .contato {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 300;
+    color: #d9d9d9d7;
+    margin-left: 60px;
+}
+
+.sobre h3 {
+    margin-bottom: 40px;
+    color: #fff;
+}
+
+.comunidade h3 {
+    margin-bottom: 40px;
+    color: #fff;
+}
+
+.contato h3 {
+    margin-bottom: 40px;
+    margin-right: 55px;
+    overflow-x: x;
+}
+
+.ultima-linha {
+    display: flex;
+    margin-top: 55px;
+}
+
+.ultima-linha li {
+    color: #d9d9d9d7;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 600;
+    display: flex;
+    margin-right: 55px;
+}
+
+.ultima-linha li a {
+    text-decoration: none;
+    color: #d9d9d9d7;
+}
+
+.sobre ul li {
+    margin-bottom: 10px;
+    width: 100px;
+}
+
+.sobre ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.sobre ul li a:hover {
+    color: #EEA206;
+    cursor: pointer;
+    transition: all 0.9s;
+}
+
+.comunidade ul li {
+    margin-bottom: 10px;
+}
+
+.comunidade ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+.comunidade ul li a:hover {
+    color: #EEA206;
+    cursor: pointer;
+    transition: all 0.9s;
+}
+
+.contato ul li {
+    margin-bottom: 10px;
+    width: 170px;
+}
+
+.contato ul li:hover {
+    color: #EEA206;
+    cursor: pointer;
+    transition: all 0.9s;
+}
+
+.input span:hover {
+    cursor: pointer;
+    color: #DF622D;
+}
+
+@media (max-width: 1350px){
+    .opcoes-navbar{
+        display: none;
+    }
+    .footer{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 1280px){
+    .financeiro, .vendas, .estoque, .graficos{
+        display: flex;
+        flex-direction: column;
+    }
+    .footer{
+        display: flex;
+        flex-direction: column;
+    }
+}
+
+@media (max-width: 500px){
+
+    nav{
+        display: none;
+    }
+
+    .nosso-servico h2{
+        font-size: 27px;
+    }
+
+    .h2-nossos-servicos{
+        font-size: 27px;
+    }
+
+    .p-nosso-servico{
+        width: 350px;
+    }
+
+    .div-foto-nosso-servico img{
+        width: 300px;
+        height: 300px;
+    }
+
+    .casos-sucesso-video{
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .dona-luciana{
+        margin: 0px 30px;
+    }
+
+    .dona-luciana p{
+        width: 300px;
+    }
+
+    .footer{
+        display: none;
+    }
+    } 
+

@@ -1,0 +1,21 @@
+*,
+:before,
+:after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a{
+    text-decoration: none;
+}
+
+li{
+    list-style-type: none;
+}
+
+h1{
+    font-size: 30px;
+    color: #1C2143;
+    font-weight: 700;
+}
