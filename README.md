@@ -48,8 +48,8 @@ Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminui
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=2AE7E8&center=true&vCenter=true&lines=Desenvolvedores+Front+End">
 </div>
 <div align="center">
-<img align="center" alt="Foto Victor Xavier" height="200" src="./img/victor.png">
-<img align="center" alt="Foto Emily Gonzaga" height="200" src="./img/emily.png">
+<a href="https://www.linkedin.com/in/victor-augusto-xavier/"><img align="center" alt="Foto Victor Xavier" height="200" src="./img/victor.png"></a>
+<a href="https://www.linkedin.com/in/emilygonzaga/"><img align="center" alt="Foto Emily Gonzaga" height="200" src="./img/emily.png"></a>
 </div>
 <br>
 
@@ -57,9 +57,9 @@ Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminui
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=2AE7E8&center=true&vCenter=true&lines=Desenvolvedores+Back+End">
 </div>
 <div align="center">
-<img align="center" alt="Foto Marcis Vinicius" height="200" src="./img/marcus.png">
-<img align="center" alt="Foto João Victor" height="200" src="./img/jv.png">
-<img align="center" alt="Foto Gabriel Pedraga" height="200" src="./img/gabriel.png">
+<a href="https://www.linkedin.com/in/marcus-araujo-sena/"><img align="center" alt="Foto Marcus Vinicius" height="200" src="./img/marcus.png"></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-a-molinari-1b7350212/"><img align="center" alt="Foto João Vitor" height="200" src="./img/jv.png"></a>
+<a href="https://www.linkedin.com/in/gabriel-pedraga-miranda-93ab62249/"><img align="center" alt="Foto Gabriel Pedraga" height="200" src="./img/gabriel.png"></a>
 </div>
 <br>
 
@@ -67,6 +67,6 @@ Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminui
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=2AE7E8&center=true&vCenter=true&lines=Desenvolvedores+de+Banco+de+Dados">
 </div>
 <div align="center">
-<img align="center" alt="Foto Linsandra Cunha" height="200" src="./img/lisandra.png">
-<img align="center" alt="Foto Pedro Henrique" height="200" src="./img/pedro.png">
+<a href="https://www.linkedin.com/in/lisandracunha/"><img align="center" alt="Foto Linsandra Cunha" height="200" src="./img/lisandra.png"></a>
+<a href="https://www.linkedin.com/in/pedro-fonseca-teixeira/"><img align="center" alt="Foto Pedro Henrique" height="200" src="./img/pedro.png"></a>
 </div>
