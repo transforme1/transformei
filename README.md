@@ -53,8 +53,8 @@ Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminui
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=2AE7E8&center=true&vCenter=true&lines=Desenvolvedores+Front+End">
 </div>
 <div align="center">
-<a href="https://www.linkedin.com/in/victor-augusto-xavier/" target="_blank"><img align="center" alt="Foto Victor Xavier" height="200" src="./img/victor.png"></a>
-<a href="https://www.linkedin.com/in/emilygonzaga/" target="_blank"><img align="center" alt="Foto Emily Gonzaga" height="200" src="./img/emily.png"></a>
+<a href="https://www.linkedin.com/in/victor-augusto-xavier/" target="_blank"><img align="center" alt="Foto Victor Xavier" height="150" src="./img/victor.png"></a>
+<a href="https://www.linkedin.com/in/emilygonzaga/" target="_blank"><img align="center" alt="Foto Emily Gonzaga" height="150" src="./img/emily.png"></a>
 </div>
 <br>
 
@@ -62,9 +62,9 @@ Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminui
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=2AE7E8&center=true&vCenter=true&lines=Desenvolvedores+Back+End">
 </div>
 <div align="center">
-<a href="https://www.linkedin.com/in/marcus-araujo-sena/" target="_blank"><img align="center" alt="Foto Marcus Vinicius" height="200" src="./img/marcus.png"></a>
-<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-a-molinari-1b7350212/" target="_blank"><img align="center" alt="Foto João Vitor" height="200" src="./img/jv.png"></a>
-<a href="https://www.linkedin.com/in/gabriel-pedraga-miranda-93ab62249/" target="_blank"><img align="center" alt="Foto Gabriel Pedraga" height="200" src="./img/gabriel.png"></a>
+<a href="https://www.linkedin.com/in/marcus-araujo-sena/" target="_blank"><img align="center" alt="Foto Marcus Vinicius" height="150" src="./img/marcus.png"></a>
+<a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-a-molinari-1b7350212/" target="_blank"><img align="center" alt="Foto João Vitor" height="150" src="./img/jv.png"></a>
+<a href="https://www.linkedin.com/in/gabriel-pedraga-miranda-93ab62249/" target="_blank"><img align="center" alt="Foto Gabriel Pedraga" height="150" src="./img/gabriel.png"></a>
 </div>
 <br>
 
@@ -74,6 +74,6 @@ Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminui
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/lisandracunha/" target="_blank"><img align="center" alt="Foto Linsandra Cunha" height="200" src="./img/lisandra.png"></a>
-<a href="https://www.linkedin.com/in/pedro-fonseca-teixeira/" target="_blank"><img align="center" alt="Foto Pedro Henrique" height="200" src="./img/pedro.png"></a>
+<a href="https://www.linkedin.com/in/lisandracunha/" target="_blank"><img align="center" alt="Foto Linsandra Cunha" height="150" src="./img/lisandra.png"></a>
+<a href="https://www.linkedin.com/in/pedro-fonseca-teixeira/" target="_blank"><img align="center" alt="Foto Pedro Henrique" height="150" src="./img/pedro.png"></a>
 </div>
