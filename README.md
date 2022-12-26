@@ -49,8 +49,8 @@ Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminui
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=2AE7E8&center=true&vCenter=true&lines=Desenvolvedores+Front+End">
 </div>
 <div align="center">
-<img align="center" alt="Foto Victor Xavier" height="100" src="./img/victor.png">
-<img align="center" alt="Foto Emily Gonzaga" height="100" src="./img/emily.png">
+<img align="center" alt="Foto Victor Xavier" height="200" src="./img/victor.png">
+<img align="center" alt="Foto Emily Gonzaga" height="200" src="./img/emily.png">
 </div>
 <br>
 
@@ -58,9 +58,9 @@ Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminui
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=2AE7E8&center=true&vCenter=true&lines=Desenvolvedores+Back+End">
 </div>
 <div align="center">
-<img align="center" alt="Foto Marcis Vinicius" height="100" src="./img/marcus.png">
-<img align="center" alt="Foto João Victor" height="100" src="./img/jv.png">
-<img align="center" alt="Foto Gabriel Pedraga" height="100" src="./img/gabriel.png">
+<img align="center" alt="Foto Marcis Vinicius" height="200" src="./img/marcus.png">
+<img align="center" alt="Foto João Victor" height="200" src="./img/jv.png">
+<img align="center" alt="Foto Gabriel Pedraga" height="200" src="./img/gabriel.png">
 </div>
 <br>
 
@@ -68,6 +68,6 @@ Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminui
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=2AE7E8&center=true&vCenter=true&lines=Desenvolvedores+de+Banco+de+Dados">
 </div>
 <div align="center">
-<img align="center" alt="Foto Linsandra Cunha" height="100" src="./img/lisandra.png">
-<img align="center" alt="Foto Pedro Henrique" height="100" src="./img/pedro.png">
+<img align="center" alt="Foto Linsandra Cunha" height="200" src="./img/lisandra.png">
+<img align="center" alt="Foto Pedro Henrique" height="200" src="./img/pedro.png">
 </div>
