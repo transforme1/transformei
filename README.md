@@ -27,11 +27,12 @@ Transformei é uma plataforma de gerenciamento de negócios, que vai acabar com 
 
 <h3 align="center">☑ Funcionalidades do Projeto ☑</h3>
 <br>
-🔵 `Funcionalidade 1:` Gestão financeira
-🔵 `Funcionalidade 2:` Gestão de vendas
-🔵 `Funcionalidade 3:` Gestão de estoque
-🔵 `Funcionalidade 4:` Assistente virtual
-🔵 `Funcionalidade 5:` Atendimento via QRCode 
+🔵 Gestão financeira <br>
+🔵 Gestão de vendas <br>
+🔵 Gestão de estoque <br>
+🔵 Assistente virtual <br>  
+🔵 Atendimento via QRCode <br>
+🔵 Atendimento via comando de voz 
 
 ##
 
