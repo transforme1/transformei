@@ -52,6 +52,8 @@ Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminui
 
 <h3 align="center">👩‍💻 Nosso Time 👨‍💻</h3>
 
+<br>
+
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=2AE7E8&center=true&vCenter=true&lines=Desenvolvedores+Front+End">
 </div>
@@ -59,6 +61,8 @@ Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminui
 <a href="https://www.linkedin.com/in/victor-augusto-xavier/" target="_blank"><img align="center" alt="Foto Victor Xavier" height="150" src="./img/victor.png"></a>
 <a href="https://www.linkedin.com/in/emilygonzaga/" target="_blank"><img align="center" alt="Foto Emily Gonzaga" height="150" src="./img/emily.png"></a>
 </div>
+
+<br>
 <br>
 
 <div align="center">
@@ -69,6 +73,8 @@ Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminui
 <a href="https://www.linkedin.com/in/jo%C3%A3o-vitor-a-molinari-1b7350212/" target="_blank"><img align="center" alt="Foto João Vitor" height="150" src="./img/jv.png"></a>
 <a href="https://www.linkedin.com/in/gabriel-pedraga-miranda-93ab62249/" target="_blank"><img align="center" alt="Foto Gabriel Pedraga" height="150" src="./img/gabriel.png"></a>
 </div>
+
+<br>
 <br>
 
 <div align="center">
