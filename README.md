@@ -1,3 +1,6 @@
+<br>
+<br>
+
 <div align="center">
 <img src="./img/foto-logo.png" alt="Gif com a logo da TransforMEI" width="550px">
 </div>
