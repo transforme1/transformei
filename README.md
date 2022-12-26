@@ -86,3 +86,14 @@ Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminui
 <a href="https://www.linkedin.com/in/lisandracunha/" target="_blank"><img align="center" alt="Foto Linsandra Cunha" height="150" src="./img/lisandra.png"></a>
 <a href="https://www.linkedin.com/in/pedro-fonseca-teixeira/" target="_blank"><img align="center" alt="Foto Pedro Henrique" height="150" src="./img/pedro.png"></a>
 </div>
+
+##
+
+<h3 align="center">☎ Fale Conosco ☎</h3>
+
+<h2>Contatos</h2>
+<a href="https://www.linkedin.com/in/transformei-%E3%85%A4-2b7ba8257/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<a href="https://www.instagram.com/transfor.mei/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
+<a href="mailto:crias.e04@gmail.com" target="_blank"><img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
