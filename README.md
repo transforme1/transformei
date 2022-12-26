@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./img/logo.gif" alt="Gif com a logo da TransforMEI" width="550px">
+<img src="./img/foto-logo.png" alt="Gif com a logo da TransforMEI" width="550px">
 </div>
 
 <h3 align="center">🎯 Objetivo 🎯</h3>
