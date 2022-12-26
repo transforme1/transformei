@@ -3,30 +3,29 @@
 </div>
 
 <br>
-<p align="center">🔹 Missão</p>
-<p align="left">
+<p><h2 align="center">🎯 Objetivo 🎯</h2></p>
+<p align="center">
 Transformei é uma plataforma que acaba com o acúmulo de funções do microempreendedor individual com um sistema de gestão integrado, que aborda o controle financeiro, controle de vendas com geração de gráficos e estatísticas importantes e controle do estoque de todos os produtos cadastrado.
 </p>
 
 ##
 
-<h2 align="center">Nossa Plataforma </h2>
+<p><h2 align="center">💻 Nossa Plataforma 💻</h2></p>
 <img src="./img/transformei-plataforma.gif" alt="Gif com a logo da TransforMEI">
 </div>
 
 <br>
-<br>
 
-<p align="left">
-🔹 Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminuir as enormes filas e presando a qualidade no atendimento,  onde o cliente terá acesso á um cardápio digital com todos os produtos vendidos pelo estabelecimento. 
-</p>
+<p><h2 align="center">📲 Cardápio Digital 📲</h2></p>
 <div align="center">
 <img src="./img/transformei-qrcode.gif" alt="Gif com um cardápio digital" width="200">
 </div>
+<p align="center">
+Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminuir as enormes filas e presando a qualidade no atendimento,  onde o cliente terá acesso á um cardápio digital com todos os produtos vendidos pelo estabelecimento. </p>
 
 ##
-<h2 align="center">Tecnologias Utilizadas</h2>
 
+<p><h2 align="center">✔ Tecnologias Utilizadas ✔</h2></p>
 <div align="center">
     <img align="center" alt="Logo HTML" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Logo CSS" height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
