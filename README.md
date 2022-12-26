@@ -2,7 +2,6 @@
 <img src="./img/logo.gif" alt="Gif com a logo da TransforMEI" width="550px">
 </div>
 
-<br>
 <h3 align="center">🎯 Objetivo 🎯</h3>
 <p align="center">
 Transformei é uma plataforma que acaba com o acúmulo de funções do microempreendedor individual com um sistema de gestão integrado, que aborda o controle financeiro, controle de vendas com geração de gráficos e estatísticas importantes e controle do estoque de todos os produtos cadastrado.
