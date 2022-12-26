@@ -16,7 +16,7 @@ Transformei é uma plataforma que acaba com o acúmulo de funções do microempr
 </div>
 </p>
 
-<br>
+<!-- <br>
 
 <h3 align="center">📲 Cardápio Digital 📲</h3>
 <br>
@@ -24,7 +24,7 @@ Transformei é uma plataforma que acaba com o acúmulo de funções do microempr
 <img src="./img/transformei-qrcode.gif" alt="Gif com um cardápio digital" width="200">
 </div>
 <p align="center">
-Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminuir as enormes filas e presando a qualidade no atendimento, onde o cliente terá acesso á um cardápio digital com todos os produtos vendidos pelo estabelecimento.</p>
+Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminuir as enormes filas e presando a qualidade no atendimento, onde o cliente terá acesso á um cardápio digital com todos os produtos vendidos pelo estabelecimento.</p> -->
 
 ##
 
