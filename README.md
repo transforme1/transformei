@@ -56,7 +56,7 @@ Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminui
 <br>
 
 <div align="center">
-<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Nunito+Sans&weight=700&pause=1000&color=2AE7E8&width=435&lines=Desenvolvedores+Front+End" alt="Typing SVG" /></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&color=2AE7E8&center=true&vCenter=true&lines=Desenvolvedores+Front+End">
 </div>
 <div align="center">
 <a href="https://www.linkedin.com/in/victor-augusto-xavier/" target="_blank"><img align="center" alt="Foto Victor Xavier" height="150" src="./img/victor.png"></a>
