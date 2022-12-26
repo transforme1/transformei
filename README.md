@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-<img src="./img/logotipo.png" alt="Gif com a logo da TransforMEI" width="700px">
+<img src="./img/foto-logo.png" alt="Gif com a logo da TransforMEI" width="700px">
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Nunito+Sans&weight=700&size=35&duration=4000&pause=2000&color=EEA206&center=true&vCenter=true&width=700&height=53&lines=A+tecnologia+n%C3%A3o+nos+separa.;Nos+conecta!" alt="Slogan da transformei." /></a>
 </div>
 
@@ -13,7 +13,7 @@
 
 <h3 align="center">🎯 Objetivo 🎯</h3>
 <p align="center">
-Transformei é uma plataforma que acaba com o acúmulo de funções do microempreendedor individual com um sistema de gestão integrado, que aborda o controle financeiro, controle de vendas com geração de gráficos e estatísticas importantes e controle do estoque de todos os produtos cadastrado.
+Transformei é uma plataforma de gerenciamento de negócios, que vai acabar com o acúmulo de funções do microempreendedor individual, através de um sistema de gestão integrado, que aborda a gestão financeira, o controle de vendas com geração de gráficos e estatísticas importantes, e o controle do estoque de todos os produtos cadastrados.
 </p>
 
 ##
