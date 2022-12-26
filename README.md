@@ -2,32 +2,29 @@
 <img src="./img/logo.gif" alt="Gif com a logo da TransforMEI" width="450px">
 </div>
 
-##
-
 <br>
-<br>
-
-<h2 align="center">Nossa Plataforma</h2>
-<p align="center">
+<p align="center">🔹 Missão</p>
+<p align="left">
 Transformei é uma plataforma que acaba com o acúmulo de funções do microempreendedor individual com um sistema de gestão integrado, que aborda o controle financeiro, controle de vendas com geração de gráficos e estatísticas importantes e controle do estoque de todos os produtos cadastrado.
 </p>
+
+##
+
+<h2 align="center">Nossa Plataforma </h2>
 <img src="./img/transformei-plataforma.gif" alt="Gif com a logo da TransforMEI">
 </div>
 
 <br>
 <br>
 
-<p align="center">
-Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminuir as enormes filas e presando a qualidade no atendimento,  onde o cliente terá acesso á um cardápio digital com todos os produtos vendidos pelo estabelecimento. 
+<p align="left">
+🔹 Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminuir as enormes filas e presando a qualidade no atendimento,  onde o cliente terá acesso á um cardápio digital com todos os produtos vendidos pelo estabelecimento. 
 </p>
 <div align="center">
 <img src="./img/transformei-qrcode.gif" alt="Gif com um cardápio digital" width="200">
 </div>
 
 ##
-
-<br>
-
 <h2 align="center">Tecnologias Utilizadas</h2>
 
 <div align="center">
@@ -41,5 +38,6 @@ Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminui
     <img align="center" alt="Logo Notion" height="50" src="https://user-images.githubusercontent.com/118784269/209491692-9a41d347-14e4-413f-a032-f53daf139140.png">
     <img align="center" alt="Logo Figma" height="50" src="https://user-images.githubusercontent.com/118784269/209491877-eea8da2f-7193-4824-8339-f8b3c09d8702.png">
  </div>
+
  ##
 
