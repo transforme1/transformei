@@ -2,7 +2,7 @@
 <br>
 
 <div align="center">
-<img src="./img/foto-logo.png" alt="Gif com a logo da TransforMEI" width="700px">
+<img src="./img/logotipo.png" alt="Gif com a logo da TransforMEI" width="700px">
 <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Nunito+Sans&weight=700&size=35&duration=4000&pause=2000&color=EEA206&center=true&vCenter=true&width=700&height=53&lines=A+tecnologia+n%C3%A3o+nos+separa.;Nos+conecta!" alt="Slogan da transformei." /></a>
 </div>
 
