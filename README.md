@@ -3,7 +3,7 @@
 
 <div align="center">
 <img src="./img/foto-logo.png" alt="Gif com a logo da TransforMEI" width="700px">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Nunito+Sans&weight=700&size=35&duration=4000&pause=2000&color=EEA206&center=true&vCenter=true&width=700&height=53&lines=A+tecnologia+n%C3%A3o+nos+separa.;Nos+conecta!" alt="Slogan da transformei." /></a>
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Nunito+Sans&weight=700&size=35&duration=4000&pause=2000&color=EEA206&center=true&vCenter=true&width=700&height=53&lines=A+tecnologia+n%C3%A3o+nos+separa.;Nos+conecta!" alt="Slogan da transformei." /></a>
 </div>
 
 <br>
@@ -56,7 +56,7 @@ Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminui
 <br>
 
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Nunito&color=2AE7E8&center=true&vCenter=true&lines=Desenvolvedores+Front+End">
+<a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Nunito+Sans&weight=700&pause=1000&color=2AE7E8&width=435&lines=Desenvolvedores+Front+End" alt="Typing SVG" /></a>
 </div>
 <div align="center">
 <a href="https://www.linkedin.com/in/victor-augusto-xavier/" target="_blank"><img align="center" alt="Foto Victor Xavier" height="150" src="./img/victor.png"></a>
