@@ -70,6 +70,5 @@ Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminui
 <div align="center">
 
 <a href="https://www.linkedin.com/in/lisandracunha/" target="_blank"><img align="center" alt="Foto Linsandra Cunha" height="200" src="./img/lisandra.png"></a>
-
 <a href="https://www.linkedin.com/in/pedro-fonseca-teixeira/" target="_blank"><img align="center" alt="Foto Pedro Henrique" height="200" src="./img/pedro.png"></a>
 </div>
