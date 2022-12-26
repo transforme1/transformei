@@ -1,5 +1,5 @@
 <div align="center">
-<img src="./img/logo.gif" alt="Gif com a logo da TransforMEI" width="450px">
+<img src="./img/logo.gif" alt="Gif com a logo da TransforMEI" width="550px">
 </div>
 
 <br>
