@@ -44,14 +44,20 @@ Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminui
 ##
 
 <h3 align="center">👩‍💻 Nosso Time 👨‍💻</h3>
+
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=2AE7E8&center=true&vCenter=true&lines=Desenvolvedores+Front+End">
+</div>
+<div align="center">
 <img align="center" alt="Foto Victor Xavier" height="100" src="./img/victor.png">
 <img align="center" alt="Foto Emily Gonzaga" height="100" src="./img/emily.png">
 </div>
 <br>
+
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=2AE7E8&center=true&vCenter=true&lines=Desenvolvedores+Back+End">
+</div>
+<div align="center">
 <img align="center" alt="Foto Marcis Vinicius" height="100" src="./img/marcus.png">
 <img align="center" alt="Foto João Victor" height="100" src="./img/jv.png">
 <img align="center" alt="Foto Gabriel Pedraga" height="100" src="./img/gabriel.png">
@@ -60,6 +66,8 @@ Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminui
 
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=2AE7E8&center=true&vCenter=true&lines=Desenvolvedores+de+Banco+de+Dados">
+</div>
+<div align="center">
 <img align="center" alt="Foto Linsandra Cunha" height="100" src="./img/lisandra.png">
 <img align="center" alt="Foto Pedro Henrique" height="100" src="./img/pedro.png">
 </div>
