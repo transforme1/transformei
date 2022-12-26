@@ -18,21 +18,20 @@ Transformei é uma plataforma de gerenciamento de negócios, que vai acabar com 
 
 ##
 
-<p><h3 align="center">💻 Nossa Plataforma 💻</h3>
+<h3 align="center">💻 Demonstração da Aplicação 💻</h3>
 <br>
 <img src="./img/transformei-plataforma.gif" alt="Gif com a logo da TransforMEI">
 </div>
-</p>
 
-<!-- <br>
+##
 
-<h3 align="center">📲 Cardápio Digital 📲</h3>
+<h3 align="center">☑ Funcionalidades do Projeto ☑</h3>
 <br>
-<div align="center" display="flex">
-<img src="./img/transformei-qrcode.gif" alt="Gif com um cardápio digital" width="200">
-</div>
-<p align="center">
-Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminuir as enormes filas e presando a qualidade no atendimento, onde o cliente terá acesso á um cardápio digital com todos os produtos vendidos pelo estabelecimento.</p> -->
+🔵 `Funcionalidade 1`: Gestão financeira
+🔵 `Funcionalidade 2`: Gestão de vendas
+🔵 `Funcionalidade 3`: Gestão de estoque
+🔵 `Funcionalidade 4`: Assistente virtual
+🔵 `Funcionalidade 5`: Atendimento via QRCode 
 
 ##
 
@@ -51,7 +50,7 @@ Criamos um atendimento rápido e eficiente via QR Code com o objetivo de diminui
 
 ##
 
-<h3 align="center">👩‍💻 Nosso Time 👨‍💻</h3>
+<h3 align="center">👩‍💻 Desenvolvedores do Projeto 👨‍💻</h3>
 
 <br>
 
